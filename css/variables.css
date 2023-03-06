@@ -1,4 +1,6 @@
 :root {
-    --yello: #fae100;
-    --horizontal-space: 25px;
+  --yello: #fae100;
+  --horizontal-space: 25px;
+  --main-border: 1px solid rgba(0, 0, 0, 0.2);
+  --gray-color: rgba(0, 0, 0, 0.5);
 }
