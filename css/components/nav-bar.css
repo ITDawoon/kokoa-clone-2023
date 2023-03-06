@@ -23,3 +23,14 @@
   left: 15px;
   bottom: 15px;
 }
+
+.nav__notification__ellipsis {
+  background-color: tomato;
+  width: 7px;
+  height: 7px;
+  border-radius: 5px;
+  display: flex;
+  position: absolute;
+  left: 29px;
+  bottom: 25px;
+}
