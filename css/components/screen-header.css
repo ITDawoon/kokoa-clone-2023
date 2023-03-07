@@ -26,3 +26,9 @@
   left: 53px;
   bottom: 13px;
 }
+
+.for_more {
+  display: flex;
+  left: 115px;
+  bottom: 22px;
+}
