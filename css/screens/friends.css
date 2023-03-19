@@ -50,5 +50,5 @@
   align-items: center;
   font-size: 132px;
   animation: hideSplashScreen 0.2s ease-in-out forwards;
-  animation-delay: 3s;
+  animation-delay: 1s;
 }
